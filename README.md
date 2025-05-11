@@ -1,29 +1,46 @@
 # 👋 Hey, I'm Joe Habre
 
-I'm a Computer Science student at the American University of Beirut, driven by curiosity and a deep interest in how technology shapes the world. I enjoy exploring a wide range of CS topics — from AI and systems to software development and hardware tinkering.
-
-## 💡 What I’m About
-- 🔭 Always building, always learning — I explore different domains, from embedded systems to web and application development.
-- 💻 Passionate about writing clean, efficient, and meaningful code.
-- 🧠 Strong believer in self-learning, late-night deep dives, and learning beyond grades.
-- 🤝 Looking for internships and collaboration opportunities that challenge me to grow.
-
-## 🔧 Skills & Tools
-- Programming: C, C++, Java, Python, HTML/CSS, JavaScript
-- Tools: Git, VS Code, Linux, MS Excel
-- Concepts: OOP, Data Structures, Algorithms, Firmware Basics, Tech Support
-- Extras: PC Hardware Assembly, Embedded System Configs, Security Systems Setup
-
-## 📂 Featured Projects
-Here are some things I’ve worked on:
-- 🔐 **[Bank Management System (Java)](your-link)** – A basic command-line interface simulating real-world banking operations.
-- 🧮 **[Fraction & ComplexNumber Classes (Java)](your-link)** – OOP assignments modeling numerical structures.
-- 📊 **[Workshop Inventory Tracker](your-link)** – MS Excel-based hardware tracker for a tech company internship.
-
-## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/joe-habre-228557330/)
-- [Email](mailto:your@email.com)
+I'm a Computer Science student at the American University of Beirut (AUB), passionate about coding, problem-solving, and the endless possibilities of technology. I’m constantly exploring new tools and ideas — from AI to embedded systems — and love learning by building.
 
 ---
 
-_"Stay curious, stay building."_
+## 📚 About Me
+- 🇱🇧 Based in Lebanon  
+- 🎓 Studying Computer Science at AUB  
+- 🚀 Interested in software development, artificial intelligence, and cybersecurity  
+- 🌙 Always diving into tech topics — whether it’s coding late at night or exploring emerging trends  
+
+---
+
+## 🛠️ Skills
+- **Programming**: Java, Python, C++ (actively learning and growing)  
+- **Web**: HTML, CSS, some JavaScript  
+- **Tools**: Git, VS Code, IntelliJ, MS Office  
+- **Tech Areas**: PC hardware setup, firmware configuration, security systems, embedded systems  
+
+---
+
+## 📂 Projects & Experience
+- 🔧 **Intern at Technisud (7 months)**  
+  Worked on PC assembly and optimization, firmware setup, alarm system installations, and hardware tracking using Excel.
+
+> *Being a good developer isn't just about writing code — it's about persistence, empathy, and continuous growth.*
+
+---
+
+## 📈 Currently Working On
+- Deepening my understanding of algorithms and data structures  
+- Building academic and personal projects  
+- Exploring AI concepts and real-world applications  
+- Building and developing my personal portfolio  
+
+---
+
+## 📫 Reach Me
+- 📧 Email: [joehabre48@gmail.com](mailto:joehabre48@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/joe-habre-228557330](https://www.linkedin.com/in/joe-habre-228557330/)  
+- 📸 Instagram: [@joeehabre](https://www.instagram.com/joeehabre)  
+
+---
+
+_"Stay curious. Keep building."_ ✨
