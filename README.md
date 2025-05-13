@@ -1,46 +1,33 @@
-# 👋 Hey, I'm Joe Habre
+# 👋 Hi, I'm Joe Habre
 
-I'm a Computer Science student at the American University of Beirut (AUB), passionate about coding, problem-solving, and the endless possibilities of technology. I’m constantly exploring new tools and ideas — from AI to embedded systems — and love learning by building.
-
----
-
-## 📚 About Me
-- 🇱🇧 Based in Lebanon  
-- 🎓 Studying Computer Science at AUB  
-- 🚀 Interested in software development, artificial intelligence, and cybersecurity  
-- 🌙 Always diving into tech topics — whether it’s coding late at night or exploring emerging trends  
+🎓 Computer Science student at the American University of Beirut (AUB)  
+💻 Passionate about software development, AI, and cybersecurity  
+🌍 Based in Lebanon
 
 ---
 
-## 🛠️ Skills
-- **Programming**: Java, Python, C++ (actively learning and growing)  
-- **Web**: HTML, CSS, some JavaScript  
-- **Tools**: Git, VS Code, IntelliJ, MS Office  
-- **Tech Areas**: PC hardware setup, firmware configuration, security systems, embedded systems  
+## 🚀 Skills
+
+- **Languages**: Java, Python, C++
+- **Web**: HTML, CSS, JavaScript
+- **Tools**: Git, VS Code, IntelliJ
+- **Interests**: PC hardware, firmware configuration, embedded systems
 
 ---
 
-## 📂 Projects & Experience
-- 🔧 **Intern at Technisud (7 months)**  
-  Worked on PC assembly and optimization, firmware setup, alarm system installations, and hardware tracking using Excel.
+## 📂 Notable Projects
 
-> *Being a good developer isn't just about writing code — it's about persistence, empathy, and continuous growth.*
+- [Java Projects Repository](https://github.com/Joeehabre/Java-Projects): A collection of mini-projects demonstrating core Java concepts.
 
 ---
 
-## 📈 Currently Working On
-- Deepening my understanding of algorithms and data structures  
-- Building academic and personal projects  
-- Exploring AI concepts and real-world applications  
-- Building and developing my personal portfolio  
+## 📈 GitHub Stats
+
+![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joeehabre&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Reach Me
-- 📧 Email: [joehabre48@gmail.com](mailto:joehabre48@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/joe-habre-228557330](https://www.linkedin.com/in/joe-habre-228557330/)  
-- 📸 Instagram: [@joeehabre](https://www.instagram.com/joeehabre)  
+## 📫 Connect with Me
 
----
-
-_"Stay curious. Keep building."_ ✨
+- [LinkedIn](https://www.linkedin.com/in/joe-habre-228557330/)
+- 📧 joehabre48@gmail.com
