@@ -17,7 +17,8 @@
 
 ## 📂 Notable Projects
 
-- [Java Projects Repository](https://github.com/Joeehabre/Java-Projects): A collection of mini-projects demonstrating core Java concepts.
+- [Java Projects](https://github.com/Joeehabre/Java-Projects) — A collection of CLI & GUI projects covering OOP, file I/O, and game logic.
+- [Py Projects](https://github.com/Joeehabre/Py-Projects) — Python-based tools and games like a calculator, weather app, password generator, and more.
 
 ---
 
@@ -29,5 +30,10 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/joe-habre-228557330/)
-- 📧 joehabre48@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joe-habre-228557330/)
+- 📧 [Email](mailto:joehabre48@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/joeehabre)
+
+---
+
+> _"Stay curious. Keep building."_ 💡
