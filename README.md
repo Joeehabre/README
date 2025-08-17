@@ -1,10 +1,18 @@
 <h1 align="center">👋 Hi, I'm Joe Habre</h1>
 
 <p align="center">
-  🎓 Computer Science student at the <b>American University of Beirut (AUB)</b><br>
-  💻 Passionate about <b>Software Development</b>, <b>AI</b>, and <b>Cybersecurity</b><br>
+  🎓 <b>Computer Science student</b> at the <b>American University of Beirut (AUB)</b><br>
+  💻 Passionate about <b>Software Development</b>, specializing in <b>AI</b> & <b>Cybersecurity</b><br>
   🌍 Based in <b>Lebanon</b>
 </p>
+
+---
+
+## 🙋‍♂️ About Me  
+
+I’m a **Computer Science student at AUB** who loves solving problems with code.  
+My main focus areas are **Artificial Intelligence** and **Cybersecurity**, where I enjoy combining theory with practical projects.  
+I’m driven by curiosity and the goal of becoming a **software engineer contributing to AI-powered and secure systems**.  
 
 ---
 
@@ -33,10 +41,10 @@
 ## 📂 Featured Projects  
 
 - [**Java Projects**](https://github.com/Joeehabre/Java-Projects) ☕  
-  Collection of CLI & GUI apps showcasing OOP, file I/O, and simple game development.  
+  A collection of Java CLI & GUI applications demonstrating **object-oriented programming**, **file I/O**, and basic **game development with Swing**.  
 
 - [**Py Projects**](https://github.com/Joeehabre/Py-Projects) 🐍  
-  Python-based tools and games such as a calculator, weather app, and password generator.  
+  A set of Python utilities and mini-apps (calculator, weather app, password generator, simple games) showcasing **Python fundamentals and scripting**.  
 
 ---
 
@@ -62,6 +70,8 @@
 - 🎓 Computer Science at the **American University of Beirut (AUB)**  
 - 🤖 Specializing in **Artificial Intelligence**  
 - 🔒 Specializing in **Cybersecurity**  
+
+> 📌 *Goal: to grow into a software engineer contributing to secure, AI-powered solutions.*  
 
 ---
 
