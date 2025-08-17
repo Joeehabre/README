@@ -1,26 +1,31 @@
-# 👋 Hey there, I'm Joe Habre  
+<h1 align="center">👋 Hi, I'm Joe Habre</h1>
 
-🎓 Computer Science student at the **American University of Beirut (AUB)**  
-💻 Passionate about **Software Development**, **AI**, and **Cybersecurity**  
-🌍 Based in **Lebanon**  
+<p align="center">
+  🎓 Computer Science student at the <b>American University of Beirut (AUB)</b><br>
+  💻 Passionate about <b>Software Development</b>, <b>AI</b>, and <b>Cybersecurity</b><br>
+  🌍 Based in <b>Lebanon</b>
+</p>
 
 ---
 
-## 🚀 Skills & Tools  
+## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tools-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IDE-IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <!-- Tools & IDEs -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 ---
@@ -28,14 +33,14 @@
 ## 📂 Featured Projects  
 
 - [**Java Projects**](https://github.com/Joeehabre/Java-Projects) ☕  
-  Collection of CLI & GUI apps covering OOP, file I/O, and simple game development.  
+  Collection of CLI & GUI apps showcasing OOP, file I/O, and simple game development.  
 
 - [**Py Projects**](https://github.com/Joeehabre/Py-Projects) 🐍  
-  Python-based tools and games like a calculator, weather app, and password generator.  
+  Python-based tools and games such as a calculator, weather app, and password generator.  
 
 ---
 
-## 📊 GitHub Insights  
+## 📊 GitHub Highlights  
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Joeehabre&show_icons=true&theme=radical"/>
@@ -45,6 +50,18 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Joeehabre&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joeehabre&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
+
+---
+
+## 🌱 Currently Learning  
+
+- Spring Boot (Java Backend)  
+- React (Frontend)  
+- Penetration Testing & Cybersecurity Tools  
 
 ---
 
@@ -58,4 +75,4 @@
 
 ---
 
-> ✨ *"Stay curious. Keep building."* 💡
+<h3 align="center">✨ "Stay curious. Keep building." ✨</h3>
