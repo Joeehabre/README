@@ -59,9 +59,9 @@
 
 ## 🌱 Currently Learning  
 
-- Spring Boot (Java Backend)  
-- React (Frontend)  
-- Penetration Testing & Cybersecurity Tools  
+- 🎓 Computer Science at the **American University of Beirut (AUB)**  
+- 🤖 Specializing in **Artificial Intelligence**  
+- 🔒 Specializing in **Cybersecurity**  
 
 ---
 
