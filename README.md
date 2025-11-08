@@ -44,7 +44,11 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
   A collection of Java CLI & GUI applications demonstrating **object-oriented programming**, **file I/O**, and basic **game development with Swing**.  
 
 - [**Py Projects**](https://github.com/Joeehabre/Py-Projects) 🐍  
-  A set of Python utilities and mini-apps (calculator, weather app, password generator, simple games) showcasing **Python fundamentals and scripting**.  
+  A set of Python utilities and mini-apps (calculator, weather app, password generator, simple games) showcasing **Python fundamentals and scripting**.
+
+- [**C-Systems-Projects**](https://github.com/Joeehabre/C-Systems-Projects) 🔧  
+  Educational C systems suite featuring a **mini Unix shell** (pipes, redirection, background jobs) and a **static HTTP/1.0 server**.  
+  *Tech:* C (C11), POSIX, `fork/exec`, `pipe`, `dup2`, TCP sockets, Make.
 
 ---
 
@@ -72,6 +76,13 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
 - 🔒 Specializing in **Cybersecurity**  
 
 > 📌 *Goal: to grow into a software engineer contributing to secure, AI-powered solutions.*  
+
+---
+
+## 🛠 What I'm Building Now
+- 🐚 A tiny **Unix shell** in C (pipes, redirection, background jobs)
+- 🌐 A minimal **HTTP/1.0 server** (serves static files)
+- 🧭 Next: unit tests + CI for both projects
 
 ---
 
