@@ -50,6 +50,10 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
   Educational C systems suite featuring a **mini Unix shell** (pipes, redirection, background jobs) and a **static HTTP/1.0 server**.  
   *Tech:* C (C11), POSIX, `fork/exec`, `pipe`, `dup2`, TCP sockets, Make.
 
+- [**Cpp-Projects**](https://github.com/Joeehabre/Cpp-Projects) ⚙️  
+  Modern C++ projects including a **custom data structures library**, **Tic-Tac-Toe AI**, and a **multithreaded downloader**.  
+  *Tech:* C++17, OOP, templates, STL, threads, mutex.
+
 ---
 
 ## 📊 GitHub Highlights  
@@ -83,6 +87,7 @@ I’m driven by curiosity and the goal of becoming a **software engineer contrib
 - 🐚 A tiny **Unix shell** in C (pipes, redirection, background jobs)
 - 🌐 A minimal **HTTP/1.0 server** (serves static files)
 - 🧭 Next: unit tests + CI for both projects
+- ⚙️ Building modern **C++ projects** — data structures, algorithms, and a Tic-Tac-Toe AI
 
 ---
 
